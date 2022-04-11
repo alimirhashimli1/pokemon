@@ -59,25 +59,25 @@ img {
 }
 
 .a1:hover {
-    background-image: url(/img/pikachu.png);  
+    background-image: url(img/pikachu.png);  
     background-size: cover; 
     background-position: center; 
 }
 
 .a2:hover {
-    background-image: url(/img/pokedex.png);  
+    background-image: url(img/pokedex.png);  
     background-size: cover; 
     background-position: center; 
 }
 
 .a3:hover {
-    background-image: url(/img/games.jpg);  
+    background-image: url(img/games.jpg);  
     background-size: cover; 
     background-position: center; 
 }
 
 .a4:hover {
-    background-image: url(/img/ash.jpeg);  
+    background-image: url(img/ash.jpeg);  
     background-size: cover; 
     background-position: center; 
 }
@@ -138,7 +138,7 @@ img {
 
 .top-box-a {
     grid-area: top-box-a;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/img/sword-shield.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(img/sword-shield.jpg);
     background-size: cover;
     background-position: center;
     
@@ -147,7 +147,7 @@ img {
 
 .top-box-b {
     grid-area: top-box-b;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/img/pokemon-go.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(img/pokemon-go.jpg);
     background-size: cover;
     background-position: center;
 }
