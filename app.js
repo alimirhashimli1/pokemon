@@ -4,7 +4,7 @@ const reviews = [
       id: 1,
       name: "1. Arceus",
       img:
-        "img/arceus.jpg",
+        "/img/arceus.jpg",
       text:
         "Not only is Arceus stronger than the overwhelming majority of other Pokemon, but the genderless God Pokemon also has the beating of all but six of their Mega Evolution forms. Assuming the Pokemon gets a Mega Evolution of its own in the Diamond & Pearl remakes later this year, it will become the outright strongest obtainable Pokemon by a considerable margin."
     },
@@ -12,7 +12,7 @@ const reviews = [
       id: 2,
       name: "2. Zamazenta",
       img:
-        "img/zamazenta.jpg",
+        "/img/zamazenta.jpg",
       text:
         "Much like Zacian, Zamazenta starts life with a base stat total of 670 which can be increased to 720 with the aid of a held item. Rather than a Rusted Sword, however, Zamazenta instead needs to be given a Rusted Shield which will lead to the Pokemon transforming into its Crowned Shield form."
     },
